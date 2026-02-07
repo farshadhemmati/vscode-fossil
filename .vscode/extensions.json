@@ -1,6 +1,6 @@
 {
 	"recommendations": [
 		"RedCMD.tmlanguage-syntax-highlighter",
-		"pflannery.vscode-versionlens",
+		"legalfina.npm-version-lens",
 	]
 }
